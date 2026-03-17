@@ -15,13 +15,13 @@
 
 ## About
 
-I've spent four-plus years in mutual fund compliance operations at KFIN Technologies, a SEBI-regulated RTA. KYC verifications, AML checks, regulatory filings — work that looks routine from the outside but sits on top of genuinely messy, inconsistent data once you start pulling at it.
+I've spent four-plus years in mutual fund operations at KFIN Technologies Ltd, a SEBI-regulated RTA. KYC verifications, regulatory filings — work that looks routine from the outside but sits on top of genuinely messy, inconsistent data once you start pulling at it.
 
 That messiness is what got me into analytics. Not a course, not a career pivot plan. Just the slow frustration of watching processes that could be automated stay manual, and reports that could answer real questions stay decorative. I started querying our data on the side. Then I started building things.
 
-The projects here all came from something I actually wanted to understand or fix. The churn model came from asking what a BCG-style analysis would look like if I did it properly from scratch — the kind of work where you make real modelling decisions, not just run a tutorial notebook. The AML screener came from sitting with compliance work every day and thinking seriously about which parts of it an LLM could assist with. Neither project started as a portfolio item. They started as questions.
+The projects here all came from something I actually wanted to understand or fix. The churn model came from asking what a BCG-style analysis would look like if I did it properly from scratch — the kind of work where you make real modelling decisions, not just run a tutorial notebook. The AML screener came from sitting with compliance & operaions work every day and thinking seriously about which parts of it an LLM could assist with. Neither project started as a portfolio item. They started as questions.
 
-I'm now looking to move into a data or product analyst role. Four years of compliance operations gives me domain knowledge that most analytics candidates don't have. The projects show the rest.
+I'm now looking to move into a data or product analyst role. Four years of compliance & operations give me domain knowledge that most analytics candidates don't have. The projects show the rest.
 
 ---
 
@@ -33,12 +33,14 @@ I'm now looking to move into a data or product analyst role. Four years of compl
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 **Libraries**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 **Visualisation**
 
@@ -50,6 +52,14 @@ I'm now looking to move into a data or product analyst role. Four years of compl
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Statistical Methods**
+
+Regression Analysis · Hypothesis Testing · KPI Development · Financial Risk Metrics (Sharpe Ratio · Volatility · ROI · Max Drawdown)
+
+SQL specifics: CTEs, window functions, subqueries, joins across multi-table schemas. The COVID SQL project is a reasonable sample of how I actually write queries.
+
+Excel specifics: VBA, Macros, Pivot Tables, VLOOKUP — the kind of Excel that handles real compliance reporting, not just basic formulas.
 
 SQL specifics: CTEs, window functions, subqueries, joins across multi-table schemas. The COVID SQL project is a reasonable sample of how I actually write queries.
 
@@ -130,9 +140,16 @@ Interactive global trends dashboard across 180+ countries. The harder problem wa
 
 ## Currently
 
-Actively looking for data or product analyst roles in India — fintech, RegTech, or anything with serious compliance or financial data behind it. The domain knowledge is already there from four years at a SEBI-regulated RTA. The SQL, Python, and modelling work is what the projects above are for.
+## Currently
 
-Medium-term goal is Bangkok. That's specific, not vague. The realistic path there runs through getting an analyst title in India first, which is where the focus is right now.
+Actively looking for data or product analyst roles in India- anything
+with serious data behind it.
+
+The goal is not just to make the transition. It's to become genuinely good at this — the kind
+of analyst who can move between a messy dataset, a business question, and a clear recommendation
+without losing anything in translation. Four years inside a SEBI-regulated RTA gave me the
+domain foundation. The projects above are where I'm building the technical depth to match it.
+
 
 If you're reading this and have a role that fits — or just want to talk through the projects — my email is above.
 
